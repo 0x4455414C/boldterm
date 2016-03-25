@@ -1,0 +1,29 @@
+{
+  "name": "boldterm",
+  "version": "0.0.1",
+  "description": "emboldens a term in a string",
+  "main": "boldterm",
+  "scripts": {
+    "test": "node boldTerm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dual1tyx/boldterm.git"
+  },
+  "keywords": [
+    "bold",
+    "term",
+    "string",
+    "html",
+    "output",
+    "js",
+    "input",
+    "strong"
+  ],
+  "author": "dual1ty <dual1tyx@hotmail.co.uk> (http://dual1ty.me)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dual1tyx/boldterm/issues"
+  },
+  "homepage": "https://github.com/dual1tyx/boldterm#readme"
+}
